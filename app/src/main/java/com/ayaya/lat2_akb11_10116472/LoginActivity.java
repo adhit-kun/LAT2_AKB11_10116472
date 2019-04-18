@@ -16,7 +16,6 @@ import android.widget.TextView;
 
 public class LoginActivity extends AppCompatActivity {
     Button  connec_fb;
-    TextView register;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
